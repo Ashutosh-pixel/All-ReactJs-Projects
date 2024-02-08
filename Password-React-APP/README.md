@@ -4,7 +4,7 @@
  
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Ashutosh-pixel/Password-React-APP/master/1.png)
+![App Screenshot](https://raw.githubusercontent.com/Ashutosh-pixel/All-ReactJs-Projects/main/Password-React-APP/1.png)
 
 
 ## Tech Stack

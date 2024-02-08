@@ -12,7 +12,7 @@ The Reactive Currency Converter is a web application built using "ReactJS" that 
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Ashutosh-pixel/Currency-Convert-React-API/master/1.png)
+![App Screenshot](https://raw.githubusercontent.com/Ashutosh-pixel/All-ReactJs-Projects/main/Currency-Convert-React-API/1.png)
 
 
 ## API Reference

@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Ashutosh-pixel/Course-Card-UI-React/main/2.png)
+![App Screenshot](https://raw.githubusercontent.com/Ashutosh-pixel/ReactJs-Projects/main/Course-Card-UI-React/2.png)
 
 
 ## API Reference
